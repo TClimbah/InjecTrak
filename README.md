@@ -23,3 +23,11 @@ On the cyber side of the project, is where many different vulnerability testing 
 At the end of running all the tools, then there will be a report given on what was the result. It gives a rating as well as some minor then some major comments on why it recieved that rating(if it was a low rating). There will then be an option to export the report to a pdf which would have options like "send to email" where it would send to an email, and more options later on
 
 Software:
+
+On the software side of the project, both backend and frontend would be focused on. On the front end, the goal is to create a user friendly interface. The only input that the program will take from the user is a sign in feature, and also websites that they want scanned. There will also be a list of already tested websites, where there would be a choice. One of the choices would be to scan it again to update the score it would get, and the other choice would be to just check the score. This is to save resources, and time. 
+Incorporated in the project, would also show if a website can be tested on or not. Paywalls on websites would not let the program scan the contents because it would be deemed unethical. Instead, the program will return saying that there is a paywall detected, and we cant test that website. 
+
+Notes on Software Side
+- From the report on the cyber side of the project, the software has to take account of how the report would work and how it would be outputted
+- A scanner will be used to scan the websites
+- A well formed database would be made
