@@ -20,4 +20,6 @@ On the cyber side of the project, is where many different vulnerability testing 
  - Password Strength Checker
  - Content Security Policy Validator
 
+At the end of running all the tools, then there will be a report given on what was the result. It gives a rating as well as some minor then some major comments on why it recieved that rating(if it was a low rating). There will then be an option to export the report to a pdf which would have options like "send to email" where it would send to an email, and more options later on
+
 Software:
