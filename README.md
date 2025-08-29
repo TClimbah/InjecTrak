@@ -29,5 +29,5 @@ Incorporated in the project, would also show if a website can be tested on or no
 
 Notes on Software Side
 - From the report on the cyber side of the project, the software has to take account of how the report would work and how it would be outputted
-- A scanner will be used to scan the websites
-- A well formed database would be made
+- A scanner will be used to scan the websites (backend)
+- A well formed database would be made (backend)
