@@ -31,3 +31,7 @@ Notes on Software Side
 - From the report on the cyber side of the project, the software has to take account of how the report would work and how it would be outputted
 - A scanner will be used to scan the websites (backend)
 - A well formed database would be made (backend)
+
+Legality:
+
+Creating a vulnerability tester against websites is actually quite illegal. The tester is bascially a form of hacking the website to see how well it deals with attacks, which in this day in age, not allowed. To combat this, I have decided to create a secure password so only I can run the program. Also, I would be using this program to test against websites that give me full permission to try and find vulnerabilities.
